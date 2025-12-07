@@ -1,0 +1,28 @@
+<svg width="45" height="45" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg">
+  <!-- Computer/Laptop -->
+  <g transform="translate(8, 12)">
+    <!-- Laptop base -->
+    <rect x="0" y="12" width="20" height="14" rx="1" fill="#4A90E2"/>
+    <!-- Laptop screen -->
+    <rect x="2" y="2" width="16" height="12" rx="1" fill="#4A90E2" opacity="0.8"/>
+    <!-- Screen content -->
+    <rect x="4" y="4" width="12" height="8" fill="#FFFFFF" opacity="0.3"/>
+    <!-- Keyboard -->
+    <line x1="4" y1="18" x2="16" y2="18" stroke="#FFFFFF" stroke-width="1" opacity="0.5"/>
+    <line x1="4" y1="20" x2="16" y2="20" stroke="#FFFFFF" stroke-width="1" opacity="0.5"/>
+    <!-- Trackpad -->
+    <rect x="7" y="22" width="6" height="2" rx="0.5" fill="#FFFFFF" opacity="0.4"/>
+  </g>
+  
+  <!-- Person/Developer -->
+  <g transform="translate(28, 8)">
+    <!-- Head -->
+    <circle cx="6" cy="6" r="4" fill="#4A90E2"/>
+    <!-- Body -->
+    <rect x="4" y="10" width="4" height="8" rx="1" fill="#4A90E2"/>
+    <!-- Arms (typing position) -->
+    <line x1="2" y1="12" x2="0" y2="16" stroke="#4A90E2" stroke-width="2" stroke-linecap="round"/>
+    <line x1="10" y1="12" x2="12" y2="16" stroke="#4A90E2" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
+
